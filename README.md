@@ -4,6 +4,8 @@ A new Flutter project Easy QR Scanner.
 
 ## Getting Started
 
+<img src="https://github.com/F-Reza/Easy_QR_Scanner_Flutter/blob/main/Screenshot.png" width="100%"> 
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
